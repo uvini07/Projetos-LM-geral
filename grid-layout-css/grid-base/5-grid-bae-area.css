@@ -1,0 +1,17 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: minmax();
+    text-align:center;
+    gap: 2px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-container div{
+    background-color: aqua;
+    border: 1px solid black;
+    padding:20px;
+    font-size: 30px;
+    text-align: center;
+}
+

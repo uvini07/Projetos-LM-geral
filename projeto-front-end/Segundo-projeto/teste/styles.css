@@ -1,0 +1,24 @@
+body{
+    background-color: lawngreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large 20px;
+    line-height: 1.6;
+    
+}
+
+.hayday{
+    text-align: center;
+    color: yellow;
+}
+p{color: #f5f5f5;
+    font-weight: 900;
+}
+
+.mr{
+    border-radius: 50%
+}
+
+#mgg{
+    text-align: center;
+}
+
